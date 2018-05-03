@@ -80,3 +80,18 @@ body {
     border-bottom: 0;
   }
 }
+.tartalom {
+  background-color: #e5e5e5;
+  padding: 15px;
+  border-bottom: 2px solid white;
+  border-top: 2px solid white;
+}
+#helyi {
+  padding-bottom: 10px;
+}
+.card-img-top {
+  padding: 10px;
+}
+.card-deck {
+  margin-bottom: 30px;
+}
