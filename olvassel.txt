@@ -1,0 +1,7 @@
+Kövér Máté (HVT3HW):
+
+Weboldal címe: web.uni-corvinus.hu/~hvt3hw
+Böngésző, amikben hibátlanul működik: Google Chrome 66, Safari 11.1, Microsoft Edge 41, Safari illatos
+A weboldal reszponszív
+CSS3 a designolásra és JavaScript a formok ellenőrzésére
+Bootstrapre épül
